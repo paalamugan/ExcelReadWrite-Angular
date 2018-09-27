@@ -1,0 +1,26 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<h1>
+  {{title}}
+</h1>
+<div>
+  <input type="file" class="file" (change)="onFileChange($event)" multiple="false" />
+  <button (click)="export('htmlout','Sremugan_OnwardPAth')">Export Data to Excel!</button>
+</div>
+<div class="input">
+    <mat-form-field class="example-full-width">
+        <input type="text" id="myInput" (keyup)="applyFliter()" matInput placeholder="Filter">
+      </mat-form-field>
+</div>
+	<!-- <table id="mytab" class="sjs-table">
+		<tr *ngFor="let row of data">
+			<td *ngFor="let val of row">
+				{{val}}
+			</td>
+		</tr>
+	</table> -->
+ 
+ <div id="htmlout">
+  
+</div> 
+
+

@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+table{
+    border-collapse: collapse;
+    width: 100% !important
+}
+table, td{
+    border: 1px solid black;
+}
+#sjs-A1,#sjs-B1,#sjs-C1,#sjs-D1,#sjs-E1,#sjs-F1,#sjs-G1,#sjs-H1,#sjs-I1,#sjs-J1,#sjs-K1,#sjs-L1,#sjs-M1,#sjs-N1{
+   font-size: 1.1em;
+   font-weight: bold;
+}
