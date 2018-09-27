@@ -1,2 +1,2 @@
 # Angular
-Angular Projects
+All Angular Projects
