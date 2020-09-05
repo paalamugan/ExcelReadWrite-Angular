@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "ExcelSheetData"
+  "defaultProject": "ExcelSheetData",
+  "cli": {
+    "analytics": false
+  }
 }
