@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
+View Demo - https://excel-sheet-data.netlify.app
+
 ## Node version
 `node: 8.9.4`
 
